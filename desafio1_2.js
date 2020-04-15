@@ -1,4 +1,4 @@
-company = {
+const company = {
     name: 'Rocketseat',
     color: 'Roxo',
     cof: 'Programação',

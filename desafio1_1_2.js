@@ -1,7 +1,7 @@
 const name = "Silvana"
-const gender = "F"
+const gender = "M"
 const age = 55
-const contribution = 30
+const contribution = 45
 
 const retirement = age + contribution
 
