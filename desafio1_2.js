@@ -7,5 +7,4 @@ const company = {
         number: 260
     }
 }
-
 console.log(`A empresa ${company.name} está localizada em ${company.address.road}, ${company.address.number}`)
