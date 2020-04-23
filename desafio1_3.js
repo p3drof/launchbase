@@ -1,7 +1,7 @@
 const user = [
     {name: "Carlos", techs: ["HTML", "CSS"]},
     {name: "Jasmine", techs: ["JavaScript", "CSS"]},
-    {name: "Tuane", techs: ["HTML", "Node.js"]},
+    {name: "Fulano", techs: ["HTML", "Node.js"]},
     {name: "Pedro", techs: ["HTML", "CSS", "Javascript", "C++", "Python"]},
     {name: "Theo", techs: ["C++", "JAVA", "Ruby"]},
     {name: "Sofia", techs: ["Photoshop", "HTML", "CSS"]}
