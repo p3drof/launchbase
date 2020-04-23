@@ -7,10 +7,6 @@ const user = [
     {name: "Sofia", techs: ["Photoshop", "HTML", "CSS"]}
 ]
 
-/*for(let i = 0; i < user.length; i++) {
-    console.log(`${user[i].name} trabalha com ${user[i].techs}`)
-}*/
-
 function checaSeUsuarioUsaCSS(user) {
     for(let i = 0; i < user.techs.length; i++) {
         if(user.techs[i] == 'CSS') {
